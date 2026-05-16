@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.resumeai.ai.controller.AiResourceTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.930 s -- in com.resumeai.ai.controller.AiResourceTest
