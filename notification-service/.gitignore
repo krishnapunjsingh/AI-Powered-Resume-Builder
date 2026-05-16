@@ -1,0 +1,64 @@
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+*.swp
+*.swo
+*~
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.backup
+release.properties
+.flattened-pom.xml
+
+# Gradle
+.gradle/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files
+*.jar
+*.war
+*.rar
+*.zip
+*.tar.gz
+*.rar
+
+# Virtual machines (optional)
+.mtj.tmp/
+
+# Spring Boot
+application-local.properties
+application-dev.properties
+application-prod.properties
+
+# Database
+*.db
+*.sqlite
+
+# Temp files
+.tmp
+*.tmp
+
+# Node (if any)
+node_modules/
+npm-debug.log
+
+# Environment
+.env
+.env.local
