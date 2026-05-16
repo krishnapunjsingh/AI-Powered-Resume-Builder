@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "security.jwt.secret",
+      "type": "java.lang.String",
+      "description": "Base64-encoded HMAC secret used by the template service JWT filter."
+    }
+  ]
+}
