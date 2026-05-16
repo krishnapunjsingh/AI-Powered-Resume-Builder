@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "name": "security.jwt",
+      "type": "com.resumeai.resume.config.JwtProperties",
+      "sourceType": "com.resumeai.resume.config.JwtProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "security.jwt.secret",
+      "type": "java.lang.String",
+      "description": "Base64-encoded signing secret used to validate JWT access tokens."
+    }
+  ]
+}
